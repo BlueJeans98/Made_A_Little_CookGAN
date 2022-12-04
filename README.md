@@ -31,7 +31,7 @@ We tackled the challenge of including contextual information when generating rea
 - The training process can be viewed [HERE](https://wandb.ai/hnc/cookgan_pretrain_upmc?workspace=user-yeonsuuuu28).
 
 ## Train FoodSpace
-- **CS470_HnC/retrieval_model/run_retrieval_nobak.sh:** Train Attention-based Retrieval Model.
+- **CS470_HnC/retrieval_model/run_retrieval.sh:** Train Attention-based Retrieval Model.
 - The training process can be viewed [HERE](https://wandb.ai/hnc/cookgan_retrieval_model?workspace=user-yeonsuuuu28).
 
 ## Train CookGAN
