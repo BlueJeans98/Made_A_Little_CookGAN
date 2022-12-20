@@ -42,3 +42,5 @@ We tackled the challenge of including contextual information when generating rea
 - **CS470_HnC/made_a_little_cookgan/run_interpolation.ipynb:** Generate Meal Image with Ingredient List & Conduct Appropriate Interpolation. 
 - **CS470_HnC/made_a_little_cookgan/interpolation_example/:** Example Interpolation Results. See [this](https://github.com/alexhonggi/CS470_HnC/blob/main/made_a_little_cookgan/interpolation_save/tomato_interpolations.jpg).
 - The output can be previewed from the [`run_interpolation.ipynb` jupyter notebook](https://github.com/alexhonggi/CS470_HnC/blob/main/made_a_little_cookgan/run_interpolation.ipynb). The step-by-step instruction is given in the file itself.
+
+[Team_8_poster_file.pdf](https://github.com/BlueJeans98/Made_A_Little_CookGAN/files/10270871/Team_8_poster_file.pdf)
