@@ -2,7 +2,8 @@
 
 #### Team 8 (Yeon Su Park, Jinsuk Kim, Yoojin Hong, Honggi Lee)
 The existing image generation models cannot synthesize photo-realistic meal images which contextualize the amount of each ingredient used in a recipe.<br/>
-We tackled the challenge of including contextual information when generating realistic meal images by automatically adjusting the amount of ingredients in the image generation process through latent space interpolation.
+We tackled the challenge of including contextual information when generating realistic meal images by automatically adjusting the amount of ingredients in the image generation process through latent space interpolation. For more details, please refer to [Made A Little CookGAN: Generating Contextualized Meal Images](https://github.com/BlueJeans98/Made_A_Little_CookGAN/files/10270871/Team_8_poster_file.pdf)
+
 
 ## Environmental Setting
 - **requirements.txt:** environment of Python 3.8 & required packages
@@ -43,4 +44,3 @@ We tackled the challenge of including contextual information when generating rea
 - **CS470_HnC/made_a_little_cookgan/interpolation_example/:** Example Interpolation Results. See [this](https://github.com/alexhonggi/CS470_HnC/blob/main/made_a_little_cookgan/interpolation_save/tomato_interpolations.jpg).
 - The output can be previewed from the [`run_interpolation.ipynb` jupyter notebook](https://github.com/alexhonggi/CS470_HnC/blob/main/made_a_little_cookgan/run_interpolation.ipynb). The step-by-step instruction is given in the file itself.
 
-[Team_8_poster_file.pdf](https://github.com/BlueJeans98/Made_A_Little_CookGAN/files/10270871/Team_8_poster_file.pdf)
